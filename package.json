@@ -1,20 +1,20 @@
 {
-  "name": "piexifjs",
-  "version": "1.0.6",
+  "name": "@sgiggles/piexifjs",
+  "version": "1.1.0",
   "description": "Read and write exif.",
   "main": "piexif.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hMatoba/piexifjs.git"
+    "url": "https://github.com/sgiggles/piexifjs.git"
   },
   "keywords": [
     "jpeg",
     "exif"
   ],
-  "author": "hMatoba",
+  "author": "Sgiggles, Inc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hMatoba/piexifjs/issues"
+    "url": "https://github.com/sgiggles/piexifjs/issues"
   },
-  "homepage": "https://github.com/hMatoba/piexifjs"
+  "homepage": "https://github.com/sgiggles/piexifjs"
 }
