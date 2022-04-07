@@ -1781,6 +1781,18 @@ SOFTWARE.
                 'name': 'DateTimeDigitized',
                 'type': 'Ascii'
             },
+            36880: {
+                'name': 'OffsetTime',
+                'type': 'Ascii'
+            },
+            36881: {
+                'name': 'OffsetTimeOriginal',
+                'type': 'Ascii'
+            },
+            36882: {
+                'name': 'OffsetTimeDigitized',
+                'type': 'Ascii'
+            },
             37121: {
                 'name': 'ComponentsConfiguration',
                 'type': 'Undefined'
